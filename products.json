@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "productName": "Apple iPhone Xs",
+            "price": "Rs 65,000/-",
+            "description": "Apple iPhone Xs 64GB",
+            "tags": ["Apple", "iPhone", "Xs"],
+            "category": "Mobile",
+            "quantity": "10",
+            "returnable": "No"
+        },
+        {
+            "productName": "Apple iPhone 11",
+            "price": "Rs 75,000/-",
+            "description": "Apple iPhone 11 64GB",
+            "tags": ["Apple", "iPhone", "11"],
+            "category": "Mobile",
+            "quantity": "5",
+            "returnable": "No"
+        },
+        {
+            "productName": "Apple iPhone SE 2",
+            "price": "Rs 45,000/-",
+            "description": "Apple iPhone SE 64GB",
+            "tags": ["Apple", "iPhone", "Xs"],
+            "category": "Mobile",
+            "quantity": "15",
+            "returnable": "No"
+        },
+        {
+            "productName": "Apple iPhone 8 Plus",
+            "price": "Rs 65,000/-",
+            "description": "Apple iPhone 8 Plus 64GB",
+            "tags": ["Apple", "iPhone", "Xs"],
+            "category": "Mobile",
+            "quantity": "3",
+            "returnable": "No"
+        }
+    ]
+}
